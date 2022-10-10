@@ -35,9 +35,14 @@ We need to click on these options.<br>
 
 
 ## Git
-[Downloading Here](https://git-scm.com/download/win)
-Here we can use nano editor as the default editor.
+[Downloading Here](https://git-scm.com/download/win)<br>
+Here we can use nano editor as the default editor.<br>
 ![image](https://user-images.githubusercontent.com/113710845/194964438-8425137c-5364-482d-925a-f0052b38ea6e.png)<br>
 And in the following options, we can follow "getting-started-with-pico" or choose the default options, there is no difference and both can work well.
+
+## VS code
+[Downloading Here](https://code.visualstudio.com/)<br>
+We need to click on these options.<br>
+![image](https://user-images.githubusercontent.com/113710845/194965130-985a885c-61af-4d2c-bb87-b4a0a74cd38f.png)<br>
 
 

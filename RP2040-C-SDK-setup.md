@@ -45,4 +45,23 @@ And in the following options, we can follow "getting-started-with-pico" or choos
 We need to click on these options.<br>
 ![image](https://user-images.githubusercontent.com/113710845/194965130-985a885c-61af-4d2c-bb87-b4a0a74cd38f.png)<br>
 
+## Environment Varibles
+We need to add the User and System Environment Varibles like below. Remember, both User and System!<br>
+![image](https://user-images.githubusercontent.com/113710845/194966358-d881685c-085d-46e2-8fdd-d0344f98db60.png)<br>
+This is very important!
+
+# Starting to build
+At first, we need to create a folder. Then we enter the terminal(we can download in Mircosoft Store) in this folder. Then we enter the code below
+```
+git clone -b master https://github.com/raspberrypi/pico-sdk.git
+cd pico-sdk
+git submodule update --init
+cd ..
+git clone -b master https://github.com/raspberrypi/pico-examples.git
+```
+Then we open VS code in folder "pico-examples" in your folder created before<br>
+We need to download these in extension.<br>
+![image](https://user-images.githubusercontent.com/113710845/194968004-fcc4f13e-f284-468d-a79b-d9891f900e52.png)
+
+![image](https://user-images.githubusercontent.com/113710845/194967561-ed155641-98f0-4b4d-8991-4add0943215d.png)<br>
 

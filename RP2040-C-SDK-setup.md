@@ -60,8 +60,14 @@ cd ..
 git clone -b master https://github.com/raspberrypi/pico-examples.git
 ```
 Then we open VS code in folder "pico-examples" in your folder created before<br>
-We need to download these in extension.<br>
-![image](https://user-images.githubusercontent.com/113710845/194968004-fcc4f13e-f284-468d-a79b-d9891f900e52.png)
+We need to download these in VS code extension.<br>
+![image](https://user-images.githubusercontent.com/113710845/194968004-fcc4f13e-f284-468d-a79b-d9891f900e52.png)<br>
+Then we need to configue CMake tools in extension settings.<br>
+We need to change following options.<br>
+![image](https://user-images.githubusercontent.com/113710845/194968253-26260bd8-3bc4-4e5f-83d0-47f3e9b8d3b6.png)<br>
+![image](https://user-images.githubusercontent.com/113710845/194968299-591a8716-bdf2-4762-bf5d-e666168b7ff1.png)<br>
+![image](https://user-images.githubusercontent.com/113710845/194968331-18fb1367-30f9-4a73-91a6-6589d413eb2e.png)<br>
+
 
 ![image](https://user-images.githubusercontent.com/113710845/194967561-ed155641-98f0-4b4d-8991-4add0943215d.png)<br>
 

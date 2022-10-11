@@ -73,4 +73,5 @@ Now it's the final step. We build hello_usb.elf and we can get a uf2 file. We ne
 We open the putty and enter the REPL, and we can find it keep outputting "Hello world", we success!!!<br>
 ![image](https://user-images.githubusercontent.com/113710845/194969489-92e797e0-1a15-490a-9442-5a8c3705a55c.png)
 
-
+# Something Else
+In fact, at the beginning, I failed in both CMake and Mingw, and I don't know how to deal with the problem. And at last, I solve this problem by reinstalling my operating system. If you are in the same situation. Don't be afraid to do it, it won't cost a lot of time. It's a useful method.

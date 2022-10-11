@@ -47,7 +47,7 @@ We need to click on these options.<br>
 
 ## Environment Varibles
 We need to add the User and System Environment Varibles like below. Remember, both User and System!<br>
-![image](https://user-images.githubusercontent.com/113710845/194966358-d881685c-085d-46e2-8fdd-d0344f98db60.png)<br>
+![image](https://user-images.githubusercontent.com/113710845/194970465-d5f80f0f-ce4b-495e-a71e-2f86c11b63ba.png)<br>
 This is very important!
 
 # Starting to build
